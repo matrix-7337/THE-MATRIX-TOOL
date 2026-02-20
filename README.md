@@ -113,7 +113,7 @@ pip install -r requirements.txt
 ## ▶ Run THE MATRIX
 
 ```bash
-python3 main.py
+python3 matrix_pro_gui.py
 ```
 
 That’s it. No complex configuration required.
