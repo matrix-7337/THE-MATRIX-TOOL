@@ -1,0 +1,6 @@
+customtkinter
+requests
+qrcode
+pillow
+groq
+pyinstaller
