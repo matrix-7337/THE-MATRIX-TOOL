@@ -90,34 +90,6 @@ A lightweight assistant that answers questions and helps with quick queries — 
 * **CustomTkinter** (Modern GUI Framework)
 * Modular architecture for multiple integrated tools
 * Designed to be lightweight and easy to run
-
----
-
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/matrix-7337/THE-MATRIX-TOOL.git
-cd THE-MATRIX-TOOL
-```
-
-Install required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶ Run THE MATRIX
-
-```bash
-python3 matrix_pro_gui.py
-```
-
-That’s it. No complex configuration required.
-
 ---
 
 ## 📂 Project Philosophy
