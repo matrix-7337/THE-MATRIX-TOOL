@@ -9,7 +9,7 @@ ctk.set_default_color_theme("green")
 # Hardcoded Gmail credentials
 # -----------------------------
 your_email = "matrix.tests67@gmail.com"  # Replace with your email
-your_app_password = "mkacxbyftomwxwbg"                  # Replace with your app password
+your_app_password = "jkjg;eukg;figuj;"                  # Replace with your app password
 
 # -----------------------------
 # Function to send email
